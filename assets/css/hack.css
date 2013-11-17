@@ -1,0 +1,30 @@
+/*
+Color Bars
+*/
+#color-bars{
+  z-index:1000;
+  position:fixed;
+  height:8px;
+  margin:0px;
+  padding:0px;
+  display:block;
+  width:100%;
+  background:#0f5552;
+}
+.color-bar{
+  float:left;
+  height:10px;
+  display:block;
+  width:20%;
+}
+#bar-1{background:#0f4bac;  }
+#bar-2{background:#0f73d3;  }
+#bar-3{background-color:#0fa3b8;  }
+#bar-4{background-color:#0fac51;  }
+#bar-5{background-color:#fff001;  }
+
+/*
+--*/
+.fondo-azul {
+background-color: #054889;
+}
